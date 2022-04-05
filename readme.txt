@@ -1,2 +1,2 @@
-Git is a version controvel system.
+Git is a distributed version controvel system.
 Git is free software.
